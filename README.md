@@ -75,7 +75,19 @@ The dataset includes player attributes such as:
 ![Dashboard](screenshots/dashboard3.png)
 ![Dashboard](screenshots/dashboard4.png)
 ![Dashboard](screenshots/dashboard12.png)
+![Dashboard](screenshots/dashboard9.png)
+![Dashboard](screenshots/dashboard14.png)
 
 ---
 
 ## 📁 Repository Structure
+fifa21-players-analysis/
+│
+├── data/
+│   └── fifa21_dataset.csv
+├── dashboard/
+│   └── fifa21_dashboard.pbix
+├── screenshots/
+│   ├── dashboard1.png
+│   ├── dashboard3.png
+└── README.md
